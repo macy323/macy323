@@ -20,7 +20,7 @@ Here are some of the tools and languages I have experience with and use in proje
 
 ## 👩🏾‍💻 Currently Working On..
 ![Website Landing Page](Design-Mock-Up.png)
-### The AI Driven Assistant
+### Python project
 I am currently working on an content creator assistant web application. The application is integrated with OpenAI API to aid in generating ideas and the copy that accompanies long form and short form content.
 
 The application in version 1 is being deployed in AWS in an event driven architecture leveraging the following AWS Services:
